@@ -14,7 +14,7 @@
 ## 🌐 Where you can find me:
 
 - [LinkedIn](https://[https://www.linkedin.com/in/ajhesh-basnet-656564291/])
-- [Twitter/X](https://www.x.com/ajheshbasnet/)
+- [Twitter](https://www.x.com/ajheshbasnet/)
 
 ---
 
