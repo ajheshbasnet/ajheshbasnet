@@ -1,6 +1,11 @@
 <h1 align="center">
-  👋 I'm **Ajhesh Basnet**
+  👋 I'm <span style="color:#ff69b4;"><strong>Ajhesh Basnet</strong></span>
 </h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/assets/wave.gif" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Pythonista;Open-Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/assets/wave.gif" width="30px">
