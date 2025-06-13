@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/assets/wave.gif" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Pythonista;Open-Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Pythonista;Model+Deployment&center=true&width=500&height=50">
 </p>
 
 <p align="center">
