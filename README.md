@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajhesh Basnet
 
-<!--
-**ajheshbasnet/ajheshbasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm an **AI and Large Language Model Enthusiast**, passionate about exploring, developing, and applying cutting-edge technologies in Artificial Intelligence.
 
-Here are some ideas to get you started:
+🌟 My main interests include:
+- Large Language Models (LLM)
+- Machine Learning Applications
+- Generative AI
+- Experimenting with new technologies in the AI ecosystem
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where you can find me:
+
+- [LinkedIn](https://[https://www.linkedin.com/in/ajhesh-basnet-656564291/]) 
+
+---
+
+🚀 Always eager to learn, collaborate, and innovate.  
+Let's connect and create something amazing together! 
