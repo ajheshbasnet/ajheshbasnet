@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Pythonista;Doing+Data+Engineering;ED+<3;Loves+to+play+with+data;Playing+with+Large+Language+Models&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Pythonista;Doing+Data+Engineering;EDA+<3;Loves+to+play+with+data;Playing+with+Large+Language+Models&center=true&width=500&height=50">
 </p>
 
 A "coder" exploring the world of **AI and Large Language Models** 😁🚀  
