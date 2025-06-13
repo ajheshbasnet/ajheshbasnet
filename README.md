@@ -1,22 +1,15 @@
-# 👋 Hi, I'm Ajhesh Basnet
+## 👋 Yo! I'm **Ajhesh Basnet**
 
-🚀 I'm an **AI and Large Language Model Enthusiast**, passionate about exploring, developing, and applying cutting-edge technologies in Artificial Intelligence.
+Just a guy who fell in love with **AI**, **LLMs**, and everything in-between 😁🔥  
 
-🌟 My main interests include:
-- Large Language Models (LLM)
-- Machine Learning Applications
-- Generative AI
-- Experimenting with new technologies in the AI ecosystem
-- Data Science
+🚀 Currently:
+- Playing with large models like Lego bricks
+- Experimenting with fine-tuning and low-resource languages
+- Turning weird ideas into code… or sometimes just into bugs 😂
 
----
+🌟 My motto:  
+_"Talk is cheap, show me the code…"_
 
-## 🌐 Where you can find me:
+🤝 Want to connect, collaborate, or nerd out about this stuff?
 
-- [LinkedIn](https://[https://www.linkedin.com/in/ajhesh-basnet-656564291/])
-- [Twitter](https://www.x.com/ajheshbasnet/)
-
----
-
-🚀 Always eager to learn, collaborate, and innovate.  
-Let's connect and create something amazing together! 
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/) — let's hang! 🌍
