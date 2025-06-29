@@ -3,20 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+the+Future+with+AI+🧠;Data+Whisperer+%26+Model+Tamer+🎯;Code+Architect+%26+Bug+Destroyer+⚡;LLM+Experimenter+%26+Fine-Tuner+🔬;Python+Sorcerer+%26+Data+Detective+🐍&font=Fira%20Code&center=true&width=600&height=70&color=00d4ff&vCenter=true&size=22">
 </div>
-
-<div align="left">
-  
-```ascii
-    ╔══╗ ╔══╗ ╔══════╗
-    ║  ║ ║  ║ ║      ║
-    ║  ╚═╝  ║ ║  ╔══╗║  <- That's me turning coffee into AI models
-    ║       ║ ║  ║  ║║
-    ║   ╔   ║ ║  ╚══╝║
-    ╚═══╝═══╝ ╚══════╝
-```
-
-</div>
-
 ##  **What I'm Cooking Up**
 
 > *"Every dataset tells a story. Every model has a secret. I'm here to decode both."*
@@ -64,13 +50,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajheshbasent&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
-</div>
-<div align="center">
-  
 **💭 "Usually loves training heavy model with heavy datasets. but once in a blue moon things turns down to messy :P"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square&label=Curious+Minds+Visited)
+![Profile Views](https://komarev.com/ghpvc/?username=ajheshbasnet&color=00d4ff&style=flat-square&label=Curious+Minds+Visited)
 
 </div>
