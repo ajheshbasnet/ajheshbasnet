@@ -1,8 +1,9 @@
 # <div align="center"> **Ajhesh Basnet** </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+the+Future+with+AI+🧠;Data+Whisperer+%26+Model+Tamer+🎯;Code+Architect+%26+Bug+Destroyer+⚡;LLM+Experimenter+%26+Fine-Tuner+🔬;Python+Sorcerer+%26+Data+Detective+🐍&font=Fira%20Code&center=true&width=600&height=70&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Deep+Learning+Enthusiast;Training+Neural+Networks;Data+Analysis+%26+Insights;Machine+Learning+Engineer;Statistical+Pattern+Recognition&font=Fira%20Code&center=true&width=500&height=60&color=00d4ff&vCenter=true&size=20">
 </div>
+<div align="center">
 ##  **What I'm Cooking Up**
 
 > *"Every dataset tells a story. Every model has a secret. I'm here to decode both."*
@@ -13,7 +14,7 @@
 -  **Experimental AI architectures** that make GPUs cry tears of joy
 -  **EDA adventures** where every plot twist is literally a plot
 
-## ⚡ **The Arsenal**
+##  **Tech Stacks**
 
 <div align="center">
 
@@ -38,7 +39,7 @@
 
 </div>
 
-## 🌐 **Let's Connect & Build Something Epic**
+## **In the world of Social Media.**
 
 <div align="center">
 
@@ -50,8 +51,5 @@
 
 ---
 
-**💭 "Usually loves training heavy model with heavy datasets. but once in a blue moon things turns down to messy :P"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajheshbasnet&color=00d4ff&style=flat-square&label=Curious+Minds+Visited)
-
+**💭 "Usually loves training heavy model with heavy datasets. But once in a blue moon, things turns down to messy :P"**
 </div>
