@@ -65,9 +65,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajheshbasent&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
 </div>
-
 <div align="center">
   
 **💭 "Usually loves training heavy model with heavy datasets. but once in a blue moon things turns down to messy :P"**
