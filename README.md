@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+the+Future+with+AI+🧠;Data+Whisperer+%26+Model+Tamer+🎯;Code+Architect+%26+Bug+Destroyer+⚡;LLM+Experimenter+%26+Fine-Tuner+🔬;Python+Sorcerer+%26+Data+Detective+🐍&font=Fira%20Code&center=true&width=600&height=70&color=00d4ff&vCenter=true&size=22">
 </div>
 
-<div align="center">
+<div align="left">
   
 ```ascii
     ╔══╗ ╔══╗ ╔══════╗
