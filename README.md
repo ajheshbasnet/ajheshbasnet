@@ -57,6 +57,6 @@
 
 <div align="center">
 
-**💭 "Usually loves training heavy models with heavy datasets. But once in a blue moon, things turn messy :P"**
+**💭 "I love training heavy models with large datasets :p"**
 
 </div>
