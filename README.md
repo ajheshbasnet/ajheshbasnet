@@ -1,20 +1,18 @@
-# <div align="center"> **Ajhesh Basnet** </div>
+# <div align="center">**Ajhesh Basnet**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Deep+Learning+Enthusiast;Training+Neural+Networks;Data+Analysis+%26+Insights;Machine+Learning+Engineer;Statistical+Pattern+Recognition&font=Fira%20Code&center=true&width=500&height=60&color=00d4ff&vCenter=true&size=20">
 </div>
-<div align="center">
-##  **What I'm Cooking Up**
 
-> *"Every dataset tells a story. Every model has a secret. I'm here to decode both."*
+## <div align="center">**What I'm Working On**</div>
 
- **Currently Obsessed With:**
--  **Fine-tuning LLMs** like they're my pet neural networks
--  **Low-resource language magic** - teaching AI to speak the unspoken
--  **Experimental AI architectures** that make GPUs cry tears of joy
--  **EDA adventures** where every plot twist is literally a plot
+**Currently Focused On:**
+- 🧠 **Fine-tuning LLMs** - Optimizing large language models for specific tasks
+- 🌐 **Low-resource language processing** - Building AI for underrepresented languages  
+- 🔬 **Experimental AI architectures** - Pushing the boundaries of deep learning
+- 📊 **Exploratory Data Analysis** - Finding hidden patterns in complex datasets
 
-##  **Tech Stacks**
+## <div align="center">**Tech Stack**</div>
 
 <div align="center">
 
@@ -39,7 +37,7 @@
 
 </div>
 
-## **In the world of Social Media.**
+## <div align="center">**Connect With Me**</div>
 
 <div align="center">
 
@@ -51,5 +49,8 @@
 
 ---
 
-**💭 "Usually loves training heavy model with heavy datasets. But once in a blue moon, things turns down to messy :P"**
+<div align="center">
+
+**💭 "Usually loves training heavy models with heavy datasets. But once in a blue moon, things turn messy :P"**
+
 </div>
