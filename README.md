@@ -1,4 +1,4 @@
-# <div align="center">🤖 **Ajhesh Basnet** 🚀</div>
+# <div align="center"> **Ajhesh Basnet** </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+the+Future+with+AI+🧠;Data+Whisperer+%26+Model+Tamer+🎯;Code+Architect+%26+Bug+Destroyer+⚡;LLM+Experimenter+%26+Fine-Tuner+🔬;Python+Sorcerer+%26+Data+Detective+🐍&font=Fira%20Code&center=true&width=600&height=70&color=00d4ff&vCenter=true&size=22">
@@ -17,15 +17,15 @@
 
 </div>
 
-## 🌟 **What I'm Cooking Up**
+##  **What I'm Cooking Up**
 
 > *"Every dataset tells a story. Every model has a secret. I'm here to decode both."*
 
-🔥 **Currently Obsessed With:**
-- 🧬 **Fine-tuning LLMs** like they're my pet neural networks
-- 🌐 **Low-resource language magic** - teaching AI to speak the unspoken
-- 🎲 **Experimental AI architectures** that make GPUs cry tears of joy
-- 📊 **EDA adventures** where every plot twist is literally a plot
+ **Currently Obsessed With:**
+-  **Fine-tuning LLMs** like they're my pet neural networks
+-  **Low-resource language magic** - teaching AI to speak the unspoken
+-  **Experimental AI architectures** that make GPUs cry tears of joy
+-  **EDA adventures** where every plot twist is literally a plot
 
 ## ⚡ **The Arsenal**
 
@@ -52,30 +52,6 @@
 
 </div>
 
-## 🎯 **Mission Control**
-
-```python
-class AjheshBasnet:
-    def __init__(self):
-        self.role = "AI Enthusiast & Data Engineer"
-        self.languages = ["Python", "C", "Java", "SQL"]
-        self.current_focus = "LLMs & Fine-tuning"
-        self.fun_fact = "I debug AI models better than I debug my life"
-        
-    def daily_routine(self):
-        return [
-            "☕ Coffee++",
-            "🤖 Train models",
-            "📊 Visualize data",
-            "🐛 Hunt bugs (they're everywhere!)",
-            "🚀 Deploy something cool",
-            "🔄 Repeat until consciousness.exe stops responding"
-        ]
-        
-    def get_superpower(self):
-        return "Turning messy data into beautiful insights ✨"
-```
-
 ## 🌐 **Let's Connect & Build Something Epic**
 
 <div align="center">
@@ -89,12 +65,12 @@ class AjheshBasnet:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajhesh_basnet&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   
-**💭 "In a world full of data, be the one who finds the patterns"**
+**💭 "Usually loves training heavy model with heavy datasets. but once in a blue moon things turns down to messy :P"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square&label=Curious+Minds+Visited)
 
