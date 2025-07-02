@@ -7,10 +7,14 @@
 ## <div align="center">**What I'm Working On**</div>
 
 **Currently Focused On:**
-- 🧠 **Fine-tuning LLMs** - Optimizing large language models for specific tasks
-- 🌐 **Low-resource language processing** - Building AI for underrepresented languages  
-- 🔬 **Experimental AI architectures** - Pushing the boundaries of deep learning
-- 📊 **Exploratory Data Analysis** - Finding hidden patterns in complex datasets
+-  **Fine-tuning LLMs** – Optimizing large language models for specific tasks  
+-  **Low-resource Language Processing** – Building AI for underrepresented languages  
+-  **Experimental AI Architectures** – Pushing the boundaries of deep learning  
+-  **Exploratory Data Analysis** – Finding hidden patterns in complex datasets  
+-  **Computer Vision & Image Processing** – Building and researching visual intelligence systems  
+-  **Speech Recognition** – Taking steady steps in understanding and processing human speech  
+-  **Retrieval-Augmented Generation (RAG)** – Designing and refining RAG-based systems for smarter information retrieval  
+
 
 ## <div align="center">**Tech Stack**</div>
 
